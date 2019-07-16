@@ -1,0 +1,7 @@
+{
+    "parser": "babel- slint",
+    "rules": {
+        "no-console": "warn"
+    },
+    "extends": ["airbnb-base"]
+}
